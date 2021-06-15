@@ -1,1 +1,11 @@
 # UI-Assignment02
+![Apple](https://user-images.githubusercontent.com/61621367/121996191-c5759180-cdc5-11eb-8c70-d91344d4b019.png)
+![Couple](https://user-images.githubusercontent.com/61621367/121996192-c6a6be80-cdc5-11eb-8560-200ff293ef12.jpg)
+![Darkdesk](https://user-images.githubusercontent.com/61621367/121996194-c73f5500-cdc5-11eb-9ae7-3eff0015e5d3.png)
+![Footerbg](https://user-images.githubusercontent.com/61621367/121996195-c7d7eb80-cdc5-11eb-9e3e-315915dccf38.png)
+![Friends](https://user-images.githubusercontent.com/61621367/121996204-c9091880-cdc5-11eb-95b0-7fa2391fa082.jpg)
+![Girlphone](https://user-images.githubusercontent.com/61621367/121996206-c9a1af00-cdc5-11eb-8703-5a2a68d8303c.jpg)
+![Ipad](https://user-images.githubusercontent.com/61621367/121996208-ca3a4580-cdc5-11eb-8fdd-98931216fdba.png)
+![Logo](https://user-images.githubusercontent.com/61621367/121996209-cad2dc00-cdc5-11eb-9c65-828b997b2ae9.png)
+![play4](https://user-images.githubusercontent.com/61621367/121996211-cad2dc00-cdc5-11eb-8239-9f587cc1c7d5.png)
+![Twitter](https://user-images.githubusercontent.com/61621367/121996212-cb6b7280-cdc5-11eb-81be-b0485117b2f4.png)
